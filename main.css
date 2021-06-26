@@ -1,0 +1,23 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    /* The border-collapse property sets whether 
+     table borders should collapse into a single border
+     or be separated as in standard HTML. */
+
+    width: 40%;
+    
+  }
+  th, td {
+    padding: 5px;
+    text-align: left; 
+    width: 40%; 
+    
+  } 
+  #pack{
+    color: cadetblue;
+  }
+  h1{
+    color: burlywood;
+  }
+ 
